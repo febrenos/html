@@ -22,14 +22,14 @@
 </html>
 ```
 ```html
-<!-- Unordination -->
+<!-- Unordination list -->
     <ul>
         <li>text1</li>
         <li>text2</li>
     </ul>
 ```
 ```html
-<!-- Ordination -->
+<!-- Ordination list -->
     <ol>
         <li>text1</li>
         <li>text2</li>
