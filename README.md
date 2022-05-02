@@ -1,4 +1,16 @@
 # html
+# VS-Code
+- alt + z
+- ctrl + k + c
+- ctrl + k + u
+- ctrl + a
+- ctrl + b
+# Emmet zencode
+- html
+(.imgGeral.posLogo>caixa)+#container>(.menu>ul>(li>a[#]{menu-$})*5)+.baner+(.produtos>h3{produtos}+(.box>.imgProd.posProd-$.caixa+h6{Nome Produto - $}+p{R-$,00})*4)+(.servicos>h3{servicos}+(.box>h3{titulo-$}+.imgGeral.posServ-$.caixa+p>lorem30)*2)+.rodape>(p>lorem5)+ul>(li.imgGeral.posRede-$.caixa>a)*3
+- css
+
+https://docs.emmet.io/cheat-sheet/
 ```html
 <!-- html5 identification -->
 <!DOCTYPE html>
